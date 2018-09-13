@@ -2,9 +2,9 @@
 # Part of Odoo. See LICENSE file for full copyright and licensing details.
 
 {
-    'name': 'Module Odoo InfoSaône pour PFP-Electronique',
-    'summary': 'Module Odoo pour PFP-Electronique',
-    'description': 'Module Odoo pour PFP-Electronique',
+    'name': 'Module Odoo InfoSaône - Thème pour PFP-Electronique',
+    'summary': 'Module Odoo InfoSaône - Thème pour PFP-Electronique',
+    'description': 'Module Odoo InfoSaône - Thème pour PFP-Electronique',
     'category': 'InfoSaône',
     'author'   : 'InfoSaône',
     'maintainer' : 'InfoSaône',

@@ -27,17 +27,23 @@
     </template>
 
 
+    <!-- Permet de masque le logo de la barre de titre -->
+    <template id="is_layout_logo_show" inherit_id="website.layout_logo_show" customize_show="True" name="Masque Logo">
+        <xpath expr="//header//a[@class='navbar-brand logo']" position="replace"/>
+    </template>
 
-    <template id="is_custom_header" inherit_id="website.layout" name="Header InfoSaône">
+
+    <!--
+    <template id="is_custom_header2" inherit_id="website.layout" name="Header InfoSaône 2">
         <xpath expr="//div[@id='wrapwrap']/header/div" position="before">
             <div class="container">
                 <div class="brand-warning" style="height:100px" role="alert">
-                    <strong>Welcome</strong> in our website 01!
+                    <strong>Welcome</strong> in our website 02!
                 </div>
             </div>
         </xpath>
     </template>
-
+    -->
 
 </data>
 </odoo>
