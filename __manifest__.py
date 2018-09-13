@@ -20,3 +20,4 @@
     'images': ['static/description/bootswatch.png'],
     'application': True,
 }
+
